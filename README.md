@@ -2,10 +2,15 @@
 # 💫 About Me
 
 🎓 B.Tech CSE (Cyber Security) — Sem III, NIET Greater Noida (AKTU)
+
 🔭 Currently building **web-based productivity, security, and learning tools**
+
 🌱 Currently sharpening **DSA (Java)** and **frontend/UI-UX patterns**
+
 🤝 Open to collaborating on **interactive web apps** and **creative coding projects**
+
 👯 Ask me about **typing practice tools, AI-powered game design, or web app architecture**
+
 ⚡ Fun fact: I built **MindGrid**, an AI negotiation twist on Tic-Tac-Toe with 9 guardian personalities powered by the Gemini API
 
 ---
