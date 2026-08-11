@@ -46,7 +46,7 @@
 
 ## 📈 LeetCode Stats
 
-> ⚠️ Add your LeetCode username below to activate this card — replace `your-leetcode-username`.
+> ⚠️ Add your LeetCode username below to activate this card — replace `nikhil-singh-u`.
 
 [![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/api/nikhil-singh-u)](https://leetcode.com/u/nikhil-singh-u/)
 
