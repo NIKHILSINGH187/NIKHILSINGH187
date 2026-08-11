@@ -17,9 +17,9 @@
 
 ## 🚀 Featured Projects
 
-**[MindGrid](https://github.com/NIKHILSINGH187)** — AI-powered negotiation variant of Tic-Tac-Toe. React/JSX single-file app with 3 modes (Puzzle, Rival, Local PvP), 9 guardian characters with distinct personalities, Gemini API backend, deployed on Netlify.
+**[MindGrid](https://tictactoemindgrid.netlify.app)** — AI-powered negotiation variant of Tic-Tac-Toe. React/JSX single-file app with 3 modes (Puzzle, Rival, Local PvP), 9 guardian characters with distinct personalities, Gemini API backend, deployed on Netlify.
 
-**[Bunkometer](https://github.com/NIKHILSINGH187)** — Attendance calculator for engineering students, featuring an animated SVG speedometer gauge and localStorage persistence. Live on GitHub Pages & Netlify.
+**[Bunkometer](https://sweet-bubblegum-1c80ee.netlify.app/)** — Attendance calculator for engineering students, featuring an animated SVG speedometer gauge and localStorage persistence. Live on GitHub Pages & Netlify.
 
 **[Inkstrike](https://github.com/NIKHILSINGH187)** — A MonkeyType-style typing speed test with a typewriter aesthetic.
 
@@ -48,7 +48,7 @@
 
 > ⚠️ Add your LeetCode username below to activate this card — replace `your-leetcode-username`.
 
-[![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/api/your-leetcode-username)](https://leetcode.com/your-leetcode-username)
+[![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/api/your-leetcode-username)](https://leetcode.com/u/nikhil-singh-u/)
 
 ---
 
@@ -69,7 +69,7 @@
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhillcore)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nikhilicious)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ognikhilicious)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsingh.cse07@gmail.com)
 
 ---
