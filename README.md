@@ -1,4 +1,4 @@
-
+<img src="./portrait.svg" width="280" />
 # 💫 About Me
 
 🎓 B.Tech CSE (Cyber Security) — Sem III, NIET Greater Noida (AKTU)
