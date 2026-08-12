@@ -21,7 +21,7 @@
 
 **[Bunkometer](https://sweet-bubblegum-1c80ee.netlify.app/)** — Attendance calculator for engineering students, featuring an animated SVG speedometer gauge and localStorage persistence. Live on GitHub Pages & Netlify.
 
-**[Inkstrike](https://github.com/NIKHILSINGH187)** — A MonkeyType-style typing speed test with a typewriter aesthetic.
+**[Inkstrike](https://nikhilsingh187.github.io/Inkstrike/)** — A MonkeyType-style typing speed test with a typewriter aesthetic.
 
 ---
 
