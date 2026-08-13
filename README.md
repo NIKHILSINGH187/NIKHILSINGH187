@@ -33,6 +33,7 @@
 - Data Structures & Algorithms — Infosys Springboard
 - Python — Infosys Springboard
 - Generative AI — Udemy
+- Adobe Creativity and Gen AI - Nasscom
 
 ---
 
