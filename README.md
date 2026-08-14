@@ -28,15 +28,23 @@
 
 ---
 
+
 ## 📜 Certifications
 
-- Google AI Professional Certificate — Coursera
-- Python Programming — iamneo
-- Remote Sensing & GIS — ISRO/IIRS
-- Data Structures & Algorithms — Infosys Springboard
-- Python — Infosys Springboard
-- Generative AI — Udemy
-- Adobe Creativity and Gen AI - Nasscom
+![Cisco](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![ISRO](https://img.shields.io/badge/ISRO%2FIIRS-Remote%20Sensing-FF6600?style=for-the-badge&logo=nasa&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-Google%20AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Nasscom](https://img.shields.io/badge/Nasscom-Adobe%20Gen%20AI-E4002B?style=for-the-badge&logo=adobe&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Master%20Generative%20AI-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys%20Springboard-DSA%20(Python)-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Programming%20Fundamentals-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys%20Springboard-JavaScript-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Next%20Gen%20Technologies-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
+![iamneo](https://img.shields.io/badge/iamneo-Python%20Programming-00A9E0?style=for-the-badge&logo=python&logoColor=white)
+![Forage](https://img.shields.io/badge/Forage-Tata%20Cybersecurity%20Simulation-00A19A?style=for-the-badge&logo=forage&logoColor=white)
+![Forage](https://img.shields.io/badge/Forage-Mastercard%20Cybersecurity%20Simulation-00A19A?style=for-the-badge&logo=forage&logoColor=white)
+
 
 ---
 
