@@ -1,18 +1,11 @@
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nikhil%20Singh&fontSize=35&animation=fadeIn)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%28Cyber+Security%29;Building+MindGrid+%26+Inkstrike;Currently+sharpening+DSA+in+Java)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B)
+
 # 💫 About Me
 
-🎓 B.Tech CSE (Cyber Security) — Sem III, NIET Greater Noida (AKTU)
-
-🔭 Currently building **web-based productivity, security, and learning tools**
-
-🌱 Currently sharpening **DSA (Java)** and **frontend/UI-UX patterns**
-
-🤝 Open to collaborating on **interactive web apps** and **creative coding projects**
-
-👯 Ask me about **typing practice tools, AI-powered game design, or web app architecture**
-
-⚡ Fun fact: I built **MindGrid**, an AI negotiation twist on Tic-Tac-Toe with 9 guardian personalities powered by the Gemini API
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00FF9C&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+B.Tech+CSE+%28Cyber+Security%29+%E2%80%94+Sem+III%2C+NIET;%F0%9F%94%AD+Building+web-based+productivity+%26+security+tools;%F0%9F%8C%B1+Sharpening+DSA+%28Java%29+%26+frontend+patterns;%F0%9F%A4%9D+Open+to+collaborate+on+interactive+web+apps;%F0%9F%91%AF+Ask+me+about+typing+tools%2C+AI+game+design%2C+or+web+architecture;%E2%9A%A1+Fun+fact%3A+I+built+MindGrid+with+9+AI+guardians)
 
 ---
 
