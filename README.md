@@ -1,7 +1,7 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nikhil%20Singh&fontSize=35&animation=fadeIn)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nikhil%20Singh&fontSize=35&animation=fadeIn)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B)
 
 # 💫 About Me
 
