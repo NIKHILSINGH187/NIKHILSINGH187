@@ -48,7 +48,8 @@
 ## 📈 LeetCode Stats
 
 
-[![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/api/nikhil-singh-u)](https://leetcode.com/u/nikhil-singh-u/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nikhil-singh-u?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/nikhil-singh-u/)
 
 ---
 
