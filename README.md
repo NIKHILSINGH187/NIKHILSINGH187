@@ -1,17 +1,19 @@
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nikhil%20Singh&fontSize=35&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&repeat=false&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B)
+
 
 
 # 💫 About Me
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%8E%93+B.Tech+CSE+%28Cyber+Security%29+%E2%80%94+Sem+III%2C+NIET)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%94%AD+Building+web-based+productivity+%26+security+tools)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%8C%B1+Sharpening+DSA+%28Java%29+%26+frontend+patterns)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%A4%9D+Open+to+collaborate+on+interactive+web+apps)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%91%AF+Ask+me+about+typing+tools%2C+AI+game+design%2C+or+web+architecture)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=30&repeat=false&lines=%E2%9A%A1+Fun+fact%3A+I+built+MindGrid+with+9+AI+guardians)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%8E%93+B.Tech+CSE+%28Cyber+Security%29+%E2%80%94+Sem+III%2C+NIET)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%94%AD+Building+web-based+productivity+%26+security+tools)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%8C%B1+Sharpening+DSA+%28Java%29+%26+frontend+patterns)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%A4%9D+Open+to+collaborate+on+interactive+web+apps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&vCenter=true&width=700&height=30&repeat=false&lines=%F0%9F%91%AF+Ask+me+about+typing+tools%2C+AI+game+design%2C+or+web+architecture)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&vCenter=true&width=700&height=30&repeat=false&lines=%E2%9A%A1+Fun+fact%3A+I+built+MindGrid+with+9+AI+guardians)
+
 
 
 ---
