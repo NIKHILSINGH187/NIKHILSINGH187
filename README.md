@@ -28,7 +28,11 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,react,html,css,nodejs,git,gcp,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,react,html,css,git,githubpages)](https://skillicons.dev)
+
+**Languages:** C · C++ · Python · Java · JavaScript
+**Frontend:** HTML · CSS · React
+**Tools & Deploy:** Git · GitHub Pages · Netlify
 
 </div>
 
