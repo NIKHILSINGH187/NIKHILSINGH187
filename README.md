@@ -70,6 +70,17 @@ A MonkeyType-style typing speed test rebuilt in React with a vintage typewriter 
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+**[Yaado Ki Cassette](https://nikhilsingh187.github.io/Yaado-ki-Cassette/)**
+
+A nostalgic Hindi retro-radio site streaming old Bollywood classics 24/7, with a custom cassette-player UI (play/pause, seek, volume, live album art) driven behind the scenes by the YouTube IFrame API. Installable as a PWA via manifest + service worker.
+
+`HTML` `CSS` `JavaScript` `YouTube IFrame API` `PWA`
+
+</td>
+</tr>
 </table>
 
 <br>
