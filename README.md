@@ -42,26 +42,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/NIKHILSINGH187/resolve_ai_platform">OmniResolve AI</a></h3>
+      <h3>🤖 <a href="https://resolve-ai-platform.vercel.app">OmniResolve AI</a></h3>
       <p>Enterprise B2B Complaint-Management & AI Investigation Platform. Full-stack ecosystem with RAG Copilot and autonomous routing.</p>
       <p><code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>Tailwind</code></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/NIKHILSINGH187">AI Document Scanner</a></h3>
+      <p>Smart AI-powered document scanning and processing tool for extracting, digitizing, and analyzing text data efficiently.</p>
+      <p><code>AI/ML</code> <code>Python</code> <code>Computer Vision</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://tictactoemindgrid.netlify.app">MindGrid</a></h3>
       <p>AI-powered negotiation variant of Tic-Tac-Toe. Single-file React app with 9 distinct AI guardian personalities using Gemini.</p>
       <p><code>React</code> <code>Gemini API</code> <code>Netlify</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📻 <a href="https://nikhilsingh187.github.io/Yaado-ki-Cassette/">Yaado Ki Cassette</a></h3>
       <p>Nostalgic Hindi retro-radio streaming Bollywood classics 24/7 with a custom cassette-player UI. PWA enabled.</p>
       <p><code>HTML/CSS/JS</code> <code>YouTube API</code> <code>PWA</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>⏳ <a href="https://sweet-bubblegum-1c80ee.netlify.app/">Bunkometer & Inkstrike</a></h3>
-      <p>A smart attendance calculator for students with SVG gauges, and a vintage MonkeyType-style React typing speed test.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>SVG</code></p>
+      <h3>⏳ <a href="https://sweet-bubblegum-1c80ee.netlify.app/">Bunkometer</a></h3>
+      <p>A smart attendance calculator for engineering students built around the 75% detention threshold with animated SVG gauges.</p>
+      <p><code>JavaScript</code> <code>SVG</code> <code>GitHub Pages</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌨️ <a href="https://nikhilsingh187.github.io/Inkstrike/">Inkstrike</a></h3>
+      <p>A vintage MonkeyType-style typing speed test rebuilt in React with an aesthetic typewriter interface and stats tracking.</p>
+      <p><code>React</code> <code>GitHub Actions</code></p>
     </td>
   </tr>
 </table>
@@ -95,6 +107,12 @@
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nikhil-singh-u?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/nikhil-singh-u/)
+
+<br><br>
+
+![GitHub Activity Globe](https://github-readme-globe.vercel.app/api?username=NIKHILSINGH187&color=0A66C2&theme=dark)
+
+<br><br>
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=NIKHILSINGH187&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github.homare.dev/api/top-langs/?username=NIKHILSINGH187&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
