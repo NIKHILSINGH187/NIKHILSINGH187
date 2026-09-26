@@ -47,9 +47,9 @@
       <p><code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>Tailwind</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/NIKHILSINGH187">AI Document Scanner</a></h3>
+      <h3>📄 <a href="https://github.com/NIKHILSINGH187/AI-BASED-DOCUMENT-SCANNING">AI-BASED-DOCUMENT-SCANNING</a></h3>
       <p>Smart AI-powered document scanning and processing tool for extracting, digitizing, and analyzing text data efficiently.</p>
-      <p><code>AI/ML</code> <code>Python</code> <code>Computer Vision</code></p>
+      <p><code>AI/ML</code> <code>TypeScript</code> <code>Computer Vision</code></p>
     </td>
   </tr>
   <tr>
@@ -100,6 +100,8 @@
 ![Udemy](https://img.shields.io/badge/Udemy-Generative%20AI-A435F0?style=flat-square&logo=udemy&logoColor=white)
 ![Forage](https://img.shields.io/badge/Forage-Tata%20%26%20Mastercard%20Simulation-00A19A?style=flat-square&logo=forage&logoColor=white)
 
+*(Recently added certifications on LinkedIn)*
+
 <br>
 
 ## 📊 GitHub Analytics
@@ -110,7 +112,7 @@
 
 <br><br>
 
-![GitHub Activity Globe](https://github-readme-globe.vercel.app/api?username=NIKHILSINGH187&color=0A66C2&theme=dark)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br><br>
 
