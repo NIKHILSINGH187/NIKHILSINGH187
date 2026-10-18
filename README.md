@@ -138,5 +138,5 @@
 [![](https://komarev.com/ghpvc/?username=NIKHILSINGH187&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 </div>
-
+ 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
